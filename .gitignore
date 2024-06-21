@@ -9,3 +9,6 @@
 **/.vs/**
 **/.vscode/**
 
+# CPM
+cmake/CPM.cmake
+
