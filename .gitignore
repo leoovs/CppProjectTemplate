@@ -1,0 +1,11 @@
+# clangd 
+**/.cache/**
+
+# cmake
+**/build/**
+**/out/**
+
+# Visual Studio [Code/IDE]
+**/.vs/**
+**/.vscode/**
+
